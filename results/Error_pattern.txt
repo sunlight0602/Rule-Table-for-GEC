@@ -1,0 +1,3 @@
+('go', 'V to inf>>V to n', 60)
+('go', 'V n>>V to n', 15)
+('listen', 'V n>>V to n', 14)
